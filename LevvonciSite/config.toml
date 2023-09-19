@@ -782,6 +782,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [languages]
   [languages.en]
     weight = 1
+    contentDir = "content"
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
@@ -793,7 +794,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = ""
         post = ""
         name = "Posts"
-        url = "/posts/"
+        url = "/posts"
         title = ""
       [[languages.en.menu.main]]
         weight = 2
