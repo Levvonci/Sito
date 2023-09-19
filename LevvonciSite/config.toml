@@ -865,10 +865,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         GitHub = "Levvonci"
         Twitter = "Levvonci"                
         Telegram = "Levvonci"
-        Phone = "555-555-555"
-        Email = "xxxx@xxxx.com"
-        [languages.en.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
+        Email = "ascenzi.leonardo.2002@gmail.com"
 
   
