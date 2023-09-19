@@ -826,7 +826,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = ""
         post = ""
         name = "About"
-        url = "/about/"
+        url = "/aboutme"
         title = ""
       [[languages.en.menu.main]]
         weight = 6
