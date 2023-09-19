@@ -854,9 +854,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.en.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "/images/avatar.png"
+          avatarURL = "/images/IMG_5354.jpg"
           title = ""
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          subtitle = "Computer Science Student"
           typeit = true
           social = true
           disclaimer = ""
