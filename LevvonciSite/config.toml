@@ -782,7 +782,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [languages]
   [languages.en]
     weight = 1
-    contentDir = "content"
+    contentDir = "content/"
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
