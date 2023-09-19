@@ -1,0 +1,4 @@
+[submodule "LevvonciSite/public"]
+	path = LevvonciSite/public
+	url = https://github.com/Levvonci/Levvonci.github.io.git
+	branch = main

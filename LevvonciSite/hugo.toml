@@ -1,0 +1,6 @@
+baseURL = 'https://Levvonci.github.io/'
+languageCode = 'en-us'
+title = 'Levvonci Site'
+
+#Theme
+theme= "LoveIt"
